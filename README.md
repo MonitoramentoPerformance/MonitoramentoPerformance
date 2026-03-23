@@ -35,7 +35,7 @@ Tenho experiência prática com integração de sistemas, construção de indica
 
 ---
 
-### 🧠 Tecnologias
+### Tecnologias
 
 <p align="left">
 <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
