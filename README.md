@@ -1,16 +1,15 @@
-## Hi there 👋
+# Monitoramento & Performance
 
-<!--
-**MonitoramentoPerformance/MonitoramentoPerformance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre
+Especialista em monitoramento operacional, BI e automações.
 
-Here are some ideas to get you started:
+## Projetos principais
+- Sistema de Penalidades
+- Integração Fluig + Power BI
+- Monitoramento com IA (Wisevia)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+- Python
+- Power BI / DAX
+- SQL Server
+- Microsoft Graph API
