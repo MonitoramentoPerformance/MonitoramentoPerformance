@@ -48,7 +48,7 @@ Tenho experiência prática com integração de sistemas, construção de indica
 
 ---
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p>
   <img 
