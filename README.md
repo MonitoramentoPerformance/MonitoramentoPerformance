@@ -9,7 +9,7 @@ Tenho experiência prática com integração de sistemas, construção de indica
 
 ---
 
-### 🔧 Principais Atividades
+### Principais Atividades
 
 - Monitoramento operacional com análise de eventos e desvios
 - Construção de indicadores e dashboards (Power BI)
@@ -19,12 +19,12 @@ Tenho experiência prática com integração de sistemas, construção de indica
 
 ---
 
-### 🚀 Projetos em Destaque
+### Projetos em Destaque
 
 - **Sistema de Penalidades**  
   Gestão e aplicação automatizada de penalidades operacionais com rastreabilidade
 
-- **Integração Fluig + Power BI**  
+- **Integração + Power BI**  
   Extração, tratamento e disponibilização de dados para análise
 
 - **Monitoramento com IA (Wisevia)**  
